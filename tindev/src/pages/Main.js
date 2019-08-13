@@ -16,7 +16,6 @@ import logo from "../assets/logo.png";
 import like from "../assets/like.png";
 import dislike from "../assets/dislike.png";
 import itsamatch from "../assets/itsamatch.png";
-import { bold } from "ansi-colors";
 
 export default function Main({ navigation }) {
   const id = navigation.getParam("user");

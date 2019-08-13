@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
   button: {
     height: 46,
     alignSelf: "stretch",
-    backgroundColor: "#df4723",
+    backgroundColor: "#9446DE",
     borderRadius: 4,
     marginTop: 10,
     justifyContent: "center",
